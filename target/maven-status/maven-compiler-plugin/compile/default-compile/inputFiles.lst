@@ -1,0 +1,17 @@
+F:\crm1\src\main\java\com\crm\common\beans\Customer.java
+F:\crm1\src\main\java\com\crm\interceptor\LoginInterceptor.java
+F:\crm1\src\main\java\com\crm\customer\service\impl\DictServiceImpl.java
+F:\crm1\src\main\java\com\crm\user\dao\IUserDao.java
+F:\crm1\src\main\java\com\crm\user\service\impl\UserServiceImpl.java
+F:\crm1\src\main\java\com\crm\common\beans\Dict.java
+F:\crm1\src\main\java\com\crm\common\utils\NavigationTag.java
+F:\crm1\src\main\java\com\crm\common\beans\User.java
+F:\crm1\src\main\java\com\crm\customer\service\IDictService.java
+F:\crm1\src\main\java\com\crm\user\service\IUserService.java
+F:\crm1\src\main\java\com\crm\common\utils\Page.java
+F:\crm1\src\main\java\com\crm\customer\dao\IDictDao.java
+F:\crm1\src\main\java\com\crm\user\handler\UserHandler.java
+F:\crm1\src\main\java\com\crm\customer\handler\CustomerHandler.java
+F:\crm1\src\main\java\com\crm\customer\dao\ICustomerDao.java
+F:\crm1\src\main\java\com\crm\customer\service\impl\CustomerServiceImpl.java
+F:\crm1\src\main\java\com\crm\customer\service\ICustomerService.java
